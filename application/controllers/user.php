@@ -45,7 +45,7 @@ class User extends CI_Controller{
 		else
 		{
 			$this->user_model->add_user();
-			$this->login();
+			redirect('user');
 		}
 	}
 	public function logout()

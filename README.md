@@ -11,6 +11,14 @@ https://db.tt/XjSXCetW
 Enjoy!
 
 
+Note: Jika membutuhkan modul tersedia pada link berikut: https://db.tt/XbZKPyol
+
+Credit to Computer and Communication Laboratory 
+Telkom Engineering School
+Telkom University 
+Bandung, Indonesia
+
+
 
 
 
